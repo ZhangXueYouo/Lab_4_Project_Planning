@@ -1,17 +1,13 @@
+A person who would use this app wants to have control over his/her money and expenses. He or she wants to achieve financial stability.
+
+
 Prototype:
 
 Who is our User ?:
 
 Age(10+),
-Students, Workers who believe that their spending plan sucks,  
+Students, Workers who believe that their spending plan is not good and they find themselves spending more than expected or forget to make payments on time,  
 and they need to save more money by making a useful plan !
-
-
-What is their problem ? :
-
-1.They often found themself spend money too fast/ 
-dont know how to spending money in a reasonable manner./
-
 
 How we gonna solve this problem for them ?:
 
@@ -21,7 +17,6 @@ More detailed:
 2.
 3.
 4.
-...
 
 
 
