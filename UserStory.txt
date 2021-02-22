@@ -16,7 +16,7 @@ More detailed:
 
 1. We can help them by making a different saving account in the appliaction, which will ask users through reminders to put a fixed amount of money in it each month.
 
-2. By inserting an automated paying functions, which pay the bills before the due date.
+2. By inserting an automated date reminding functions, which displays an error message to pay the bills before the due date.
 
 3. The user will be able to make transactions from the traditional bank account into the online banking app and can also transfer it to the another banking account through this app only.
 
