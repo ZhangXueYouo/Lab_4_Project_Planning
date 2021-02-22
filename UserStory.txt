@@ -13,8 +13,11 @@ How we gonna solve this problem for them ?:
 
 Help them (quickly) make a useful spending plan with a low cost.
 More detailed:
-1.
-2.
+
+1.By making a different saving account in the appliaction, which will ask users through reminders to put a fixed amount of money in it each month.
+
+2. By inserting an automated paying functions, which pay the bills before the due date.
+
 3.
 4.
 
