@@ -9,5 +9,5 @@ public class ActivityTransfer extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.Transactions);
+        setContentView(R.layout.transactions);
     }
