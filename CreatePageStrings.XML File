@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User AuthenticationPage</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="not_registered">notregister</string>
+    <string name="registered">register</string>
+    <string name="ConfirmPassword">ConfirmPassword</string>
+    <string name="already_registered">already_registered</string>
+    <string name="FName">FName</string>
+    <string name="LName">LName</string>
+</resources>
