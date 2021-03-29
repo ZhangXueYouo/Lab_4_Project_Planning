@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
         mConfirmPassword = (EditText) findViewById(R.id.confirmpassword);
         mLogin = (TextView) findViewById(R.id.login);
         mRegister = (TextView) findViewById(R.id.already_register);
-        mLogin.setOnClickListener(new View.OnClickListener()             }
-        });
+        mLogin.setOnClickListener(new View.OnClickListener());
     }
 }
