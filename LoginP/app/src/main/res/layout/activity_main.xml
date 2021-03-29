@@ -42,7 +42,7 @@
         android:background="@drawable/input_background"
         android:drawableLeft="@drawable/ic_person"
         android:ems="10"
-        android:hint="Username"
+        android:hint="@string/email"
         android:inputType="textPersonName"
         android:paddingLeft="20dp"
         android:paddingTop="10dp"
